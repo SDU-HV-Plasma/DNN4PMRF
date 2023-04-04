@@ -1,0 +1,2 @@
+# Deep Neural Network for Pulse-Modulated RF Discharge
+A fully connected multilayer BP network together with the universal hidden layer structure is developed to explore the discharge characteristics of atmospheric pulse-modulated RF discharges. The discharge characteristics such as current density, electron temperature, electron density, ion density, and electric field of atmospheric pulse-modulated RF discharges can be accurately and efficiently predicted by the well-trained DNN. 
